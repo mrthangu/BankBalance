@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 3px solid #ccc;
+    background-color: aqua;
+    border-radius: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+
+  
+  .btn-tain{
+    text-align: center;
+    margin-top: 10px;
+
+  }
+  .depwith{
+
+    padding: 10px 20px;
+    background-color: #6041c4;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .depwith:hover{
+
+    background-color: yellow;
+    color: brown;
+  }
+  .depwith:active{
+    background-color: purple;
+    color:white
+  }
+  .btn-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .btn {
+    padding: 10px 20px;
+    background-color: #6041c4;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 15px;
+  }
+  .btn:hover{
+
+    background-color: brown;
+  }
+  .btn:active {
+    background-color: #12f060;
+  }
